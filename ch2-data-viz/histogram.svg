@@ -1,0 +1,80 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(72, 364)">
+<g>
+<rect fill="burlywood" height="340" stroke="black" width="47.999999999999986" x="0" y="-340"/>
+<rect fill="burlywood" height="5.08685611005121" stroke="black" width="48.00000000000003" x="47.999999999999986" y="-5.08685611005121"/>
+<rect fill="burlywood" height="28.71171804398032" stroke="black" width="47.999999999999986" x="96.00000000000001" y="-28.71171804398032"/>
+<rect fill="burlywood" height="71.59152525353952" stroke="black" width="48.00000000000003" x="144" y="-71.59152525353952"/>
+<rect fill="burlywood" height="69.20172708103223" stroke="black" width="47.99999999999997" x="192.00000000000003" y="-69.20172708103223"/>
+<rect fill="burlywood" height="70.26006627171402" stroke="black" width="48" x="240" y="-70.26006627171402"/>
+<rect fill="burlywood" height="67.49472838638418" stroke="black" width="47.99999999999994" x="288" y="-67.49472838638418"/>
+<rect fill="burlywood" height="26.62917963650969" stroke="black" width="48.000000000000114" x="335.99999999999994" y="-26.62917963650969"/>
+<rect fill="burlywood" height="3.413997389296114" stroke="black" width="48" x="384.00000000000006" y="-3.413997389296114"/>
+<rect fill="burlywood" height="0.4096796867155337" stroke="black" width="47.99999999999994" x="432.00000000000006" y="-0.4096796867155337"/>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="-0.000007398470414356587" x2="-0.000007398470414356587" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="89.00154873338072" x2="89.00154873338072" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="178.00310486523182" x2="178.00310486523182" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="267.0046609970829" x2="267.0046609970829" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="356.00621712893405" x2="356.00621712893405" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="445.00777326078514" x2="445.00777326078514" y1="0" y2="10"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="480" y1="0" y2="0"/>
+<g>
+<text font-size="12" text-anchor="middle" x="-0.000007398470414356587" y="20">
+54.26313
+</text>
+<text font-size="12" text-anchor="middle" x="89.00154873338072" y="20">
+94.26313
+</text>
+<text font-size="12" text-anchor="middle" x="178.00310486523182" y="20">
+134.26313
+</text>
+<text font-size="12" text-anchor="middle" x="267.0046609970829" y="20">
+174.26313
+</text>
+<text font-size="12" text-anchor="middle" x="356.00621712893405" y="20">
+214.26313
+</text>
+<text font-size="12" text-anchor="middle" x="445.00777326078514" y="20">
+254.26313
+</text>
+</g>
+<text font-size="12" text-anchor="middle" x="240" y="30">
+
+</text>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-0" y2="-0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-68.27994778592227" y2="-68.27994778592227"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-136.55989557184455" y2="-136.55989557184455"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-204.83984335776685" y2="-204.83984335776685"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-273.1197911436891" y2="-273.1197911436891"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
+<g>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-0">
+0
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-68.27994778592227">
+2000
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-136.55989557184455">
+4000
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-204.83984335776685">
+6000
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-273.1197911436891">
+8000
+</text>
+</g>
+<text font-size="12" text-anchor="middle" transform="rotate(-90 -48 -170)" x="-48" y="-182">
+
+</text>
+</g>
+</g>
+</svg>
